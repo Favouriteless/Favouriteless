@@ -21,11 +21,27 @@ Feel free to reach out to me with questions about my work or particularly about 
 
 ## 💻Passion Projects
 
-<div align="center" style="display:flex;flex-wrap:wrap;align-items:center;border: 1px solid red;">
-    <div style="width:300px;margin:5px;border:1px solid green;">
-        <img src="./resources/enchanted.png">
-    </div>
-    <div style="width:300px;margin:5px;border:1px solid green;">
-        <img src="./resources/enchanted.png">
-    </div>
-</div>
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+
+[![Modopedia banner](./resources/enchanted.png)](https://github.com/Favouriteless/Enchanted)
+A large, long running minecraft mod I've been developing since 2020 about witchcraft and magic, averaging about 6000 downloads per day with an active community.
+
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
+
+</td>
+<td width="50%" align="center">
+
+[![Modopedia banner](./resources/modopedia.png)](https://github.com/Favouriteless/Modopedia)
+Extensive library for creating dynamic user-generated guides and documentation in Minecraft. It is utilised in Enchanted and other modding projects as well.
+
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON">
+
+
+</td>
+
+</tr>
+</table>
