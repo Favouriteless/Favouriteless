@@ -6,7 +6,7 @@ Feel free to reach out to me with questions about my work or particularly about 
 
 ## 📜Technical Skills
 
-- **Languages**: Java, Go, C++, TypeScript, HTML5
+- **Languages**: Java, Go, C, C++, JavaScript, TypeScript, HTML5
 - **Databases**: MySQL, Postgres, SQLite
 - **Games/Engines**: Minecraft, Unreal Engine, Unity
 
