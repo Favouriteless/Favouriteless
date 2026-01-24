@@ -1,20 +1,19 @@
 ## 👋Introduction
 
-Hi there! I'm Freddy, a freelance game developer and university student from the United Kingdom. I work on a large variety of projects from popular Minecraft mods with thousands of users to anti-cheat solutions, backends and even websites.
+Hi there! I'm Freddy, a freelance game developer and university student from the United Kingdom. I work on a large variety of projects from popular Minecraft mods with millions of users to backends and even websites.
 
 Feel free to reach out to me with questions about my work or particularly about modding!
 
 ## 📜Technical Skills
 
-- **Languages**: Java, Go, C, C++, JavaScript, TypeScript, HTML5
-- **Databases**: MySQL, Postgres, SQLite
+- **Languages**: Java, Go, C, C++, TypeScript
+- **Databases**: MySQL, PostgreSQL, SQLite
 - **Games/Engines**: Minecraft, Unreal Engine, Unity
 
 ## 💻Passion Projects
 
 <table width="100%">
 <tr>
-
 <td width="50%" align="center">
 
 [![Modopedia banner](./resources/enchanted.png)](https://github.com/Favouriteless/Enchanted)
@@ -31,8 +30,22 @@ Extensive library for creating dynamic user-generated guides and documentation i
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON">
 
+</td>
+</tr>
+<tr>
+</td>
+<td width="50%" align="center">
+
+[![ElainaBot banner](./resources/elainabot.png)](https://github.com/Favouriteless/ElainaBot)
+A discord bot I use to manage my modding communities, written from scratch in Go. It's still quite small, but I'm slowly adding to it over time.
+
+<img src="https://img.shields.io/badge/Go-%23ED8B00.svg?logo=go&color=00ADD8&logoColor=white" alt="Go">
+<img src="https://img.shields.io/badge/SQLite-%23ED8B00.svg?logo=sqlite&color=003B57&logoColor=white" alt="SQLite">
 
 </td>
+<td width="50%" align="center">
 
+</td>
 </tr>
+
 </table>
