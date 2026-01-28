@@ -40,7 +40,7 @@ Extensive library for creating dynamic user-generated guides and documentation i
 A discord bot I use to manage my modding communities, written from scratch in Go. It's still quite small, but I'm slowly adding to it over time.
 
 <img src="https://img.shields.io/badge/Go-%23ED8B00.svg?logo=go&color=00ADD8&logoColor=white" alt="Go">
-<img src="https://img.shields.io/badge/SQLite-%23ED8B00.svg?logo=sqlite&color=003B57&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/MySQL-%23ED8B00.svg?logo=mysql&color=00758F&logoColor=white" alt="SQLite">
 
 </td>
 <td width="50%" align="center">
